@@ -16,6 +16,16 @@
     text-align: center;
 
 }
+.header {
+    background-image: url("../images/landscape.jpg");
+    width: 100%;
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+  
+   
+}
 
 .navbar > .container {
     width: 100%; }
